@@ -1,0 +1,71 @@
+{
+  "source": "AI",
+  "teamScore": 25.8,
+  "predictedClass": 0,
+  "predictedProbabilities": {
+    "below_threshold": 0.9999998576438852,
+    "above_threshold": 1.42356114742805e-07
+  },
+  "teamFeatures": {
+    "restricted_count": 0,
+    "physical_count": 3,
+    "special_count": 6,
+    "support_count": 6,
+    "priority_user_count": 2,
+    "protect_count": 2,
+    "fake_out_count": 0,
+    "redirection_count": 0,
+    "pivot_move_count": 0,
+    "setup_move_count": 0,
+    "spread_move_user_count": 0,
+    "status_move_count": 10,
+    "weather_setter_count": 2,
+    "terrain_setter_count": 0,
+    "intimidate_count": 1,
+    "has_fake_out": 0,
+    "has_tailwind": 0,
+    "has_trick_room": 0,
+    "has_redirection": 0,
+    "has_wide_guard": 0,
+    "has_speed_control": 0,
+    "has_protect": 1,
+    "has_setup": 0,
+    "has_intimidate": 1,
+    "has_weather": 1,
+    "has_terrain": 0
+  },
+  "limeExplanation": [
+    {
+      "feature": "restricted_count <= 0.00",
+      "weight": -0.023886069783993335
+    },
+    {
+      "feature": "status_move_count > 9.00",
+      "weight": -0.014374808474007761
+    },
+    {
+      "feature": "support_count > 5.00",
+      "weight": -0.012050848621959001
+    },
+    {
+      "feature": "physical_count <= 3.00",
+      "weight": 0.011252786944681658
+    },
+    {
+      "feature": "has_setup <= 0.00",
+      "weight": 0.011126986003257821
+    },
+    {
+      "feature": "terrain_setter_count <= 0.00",
+      "weight": 0.008341459961124216
+    },
+    {
+      "feature": "0.00 < priority_user_count <= 2.00",
+      "weight": -0.007407928620298558
+    },
+    {
+      "feature": "has_terrain <= 0.00",
+      "weight": -0.007257463362930016
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chapter 5 Project</string>
+    <string name="eiffel">Eiffel Tower Image</string>
+    <string name="kyoto">Kyoto Tower Image</string>
+    <string name="liberty">Statue of Liberty Image</string>
+    <string name="oneworld">One World Trade Center Image</string>
+    <string name="stonehenge">Stonehenge Image</string>
+    <string-array name="entries">
+        <item>Eiffel Tower</item>
+        <item>Kyoto Tower</item>
+        <item>Statue of Liberty</item>
+        <item>One World Trade Center</item>
+        <item>Stonehenge</item>
+    </string-array>
+</resources>

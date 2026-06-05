@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <string name="app_title">Money Conversion</string>
+    <string name="app_input">Enter Amount of US Dollars</string>
+    <string name="rb_euro">Convert to Euro</string>
+    <string name="rb_peso">Convert to Peso</string>
+    <string name="rb_canadian">Convert to Canadian Dollars</string>
+    <string name="txtButton">Convert US Dollars</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ring Tones</string>
+    <string name="splash_imgdescription">Ring Tone Image</string>
+    <string name="main_bagpipes">Bag Pipes</string>
+    <string name="main_drums">Drums</string>
+    <string name="main_jig">Jig</string>
+    <string name="main_ukelele">Ukelele</string>
+
+    <string name="play_bp">Play BagPipes</string>
+    <string name="play_drums">Play Drums</string>
+    <string name="play_jig">Play Jig</string>
+    <string name="play_ukelele">Play Ukelele</string>
+</resources>

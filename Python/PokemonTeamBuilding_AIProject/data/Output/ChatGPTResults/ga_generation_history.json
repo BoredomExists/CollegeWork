@@ -1,0 +1,50 @@
+[
+  {
+    "generation": 1,
+    "bestScore": 53.2
+  },
+  {
+    "generation": 2,
+    "bestScore": 50
+  },
+  {
+    "generation": 3,
+    "bestScore": 53
+  },
+  {
+    "generation": 4,
+    "bestScore": 51.8
+  },
+  {
+    "generation": 5,
+    "bestScore": 51.8
+  },
+  {
+    "generation": 6,
+    "bestScore": 53.6
+  },
+  {
+    "generation": 7,
+    "bestScore": 51.6
+  },
+  {
+    "generation": 8,
+    "bestScore": 52.8
+  },
+  {
+    "generation": 9,
+    "bestScore": 51.8
+  },
+  {
+    "generation": 10,
+    "bestScore": 55
+  },
+  {
+    "generation": 11,
+    "bestScore": 53.6
+  },
+  {
+    "generation": 12,
+    "bestScore": 51.2
+  }
+]

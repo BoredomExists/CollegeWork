@@ -1,0 +1,71 @@
+{
+  "source": "ChatGPT",
+  "teamScore": 55,
+  "predictedClass": 1,
+  "predictedProbabilities": {
+    "below_threshold": 0.19652489329229583,
+    "above_threshold": 0.8034751067077042
+  },
+  "teamFeatures": {
+    "restricted_count": 2,
+    "physical_count": 4,
+    "special_count": 4,
+    "support_count": 3,
+    "priority_user_count": 3,
+    "protect_count": 2,
+    "fake_out_count": 1,
+    "redirection_count": 0,
+    "pivot_move_count": 0,
+    "setup_move_count": 0,
+    "spread_move_user_count": 0,
+    "status_move_count": 4,
+    "weather_setter_count": 0,
+    "terrain_setter_count": 0,
+    "intimidate_count": 0,
+    "has_fake_out": 1,
+    "has_tailwind": 1,
+    "has_trick_room": 0,
+    "has_redirection": 0,
+    "has_wide_guard": 1,
+    "has_speed_control": 1,
+    "has_protect": 1,
+    "has_setup": 0,
+    "has_intimidate": 0,
+    "has_weather": 1,
+    "has_terrain": 1
+  },
+  "limeExplanation": [
+    {
+      "feature": "status_move_count <= 4.00",
+      "weight": 0.0373985784265571
+    },
+    {
+      "feature": "0.00 < restricted_count <= 2.00",
+      "weight": 0.027456634169805698
+    },
+    {
+      "feature": "support_count <= 3.00",
+      "weight": 0.018429741273238955
+    },
+    {
+      "feature": "2.00 < priority_user_count <= 3.00",
+      "weight": 0.0156498782276617
+    },
+    {
+      "feature": "3.00 < physical_count <= 4.00",
+      "weight": -0.013897214413056783
+    },
+    {
+      "feature": "redirection_count <= 0.00",
+      "weight": 0.012008204462726732
+    },
+    {
+      "feature": "has_setup <= 0.00",
+      "weight": 0.011648699376394752
+    },
+    {
+      "feature": "0.00 < has_speed_control <= 1.00",
+      "weight": 0.009837593627568898
+    }
+  ]
+}

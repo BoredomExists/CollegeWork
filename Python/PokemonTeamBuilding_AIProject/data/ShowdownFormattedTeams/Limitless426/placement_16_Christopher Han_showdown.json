@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Ursaluna",
+    "species": "Ursaluna",
+    "item": "Flame Orb",
+    "ability": "Guts",
+    "moves": [
+      "Facade",
+      "Earthquake",
+      "Headlong Rush",
+      "Protect"
+    ],
+    "nature": "Brave",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Lunala",
+    "species": "Lunala",
+    "item": "Electric Seed",
+    "ability": "Shadow Shield",
+    "moves": [
+      "Moongeist Beam",
+      "Wide Guard",
+      "Moonblast",
+      "Trick Room"
+    ],
+    "nature": "Quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 252,
+      "spd": 0,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Whimsicott",
+    "species": "Whimsicott",
+    "item": "Covert Cloak",
+    "ability": "Prankster",
+    "moves": [
+      "Moonblast",
+      "Light Screen",
+      "Encore",
+      "Tailwind"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 252,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Incineroar",
+    "species": "Incineroar",
+    "item": "Assault Vest",
+    "ability": "Intimidate",
+    "moves": [
+      "Fake Out",
+      "Knock Off",
+      "Flare Blitz",
+      "U Turn"
+    ],
+    "nature": "Careful",
+    "gender": "M",
+    "evs": {
+      "hp": 252,
+      "atk": 4,
+      "def": 116,
+      "spa": 0,
+      "spd": 132,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Miraidon",
+    "species": "Miraidon",
+    "item": "Life Orb",
+    "ability": "Hadron Engine",
+    "moves": [
+      "Electro Drift",
+      "Protect",
+      "Draco Meteor",
+      "Volt Switch"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Urshifu Rapid Strike",
+    "species": "Urshifu Rapid Strike",
+    "item": "Choice Band",
+    "ability": "Unseen Fist",
+    "moves": [
+      "Surging Strikes",
+      "Aqua Jet",
+      "Close Combat",
+      "U Turn"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

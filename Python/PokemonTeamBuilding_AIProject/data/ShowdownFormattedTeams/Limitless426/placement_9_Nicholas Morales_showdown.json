@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Incineroar",
+    "species": "Incineroar",
+    "item": "Chople Berry",
+    "ability": "Intimidate",
+    "moves": [
+      "Helping Hand",
+      "Fake Out",
+      "Parting Shot",
+      "Knock Off"
+    ],
+    "nature": "Careful",
+    "gender": "M",
+    "evs": {
+      "hp": 252,
+      "atk": 4,
+      "def": 116,
+      "spa": 0,
+      "spd": 132,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Chien Pao",
+    "species": "Chien Pao",
+    "item": "Focus Sash",
+    "ability": "Sword Of Ruin",
+    "moves": [
+      "Icicle Crash",
+      "Sucker Punch",
+      "Ruination",
+      "Protect"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Lunala",
+    "species": "Lunala",
+    "item": "Leftovers",
+    "ability": "Shadow Shield",
+    "moves": [
+      "Moongeist Beam",
+      "Calm Mind",
+      "Moonblast",
+      "Protect"
+    ],
+    "nature": "Quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 252,
+      "spd": 0,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Zamazenta",
+    "species": "Zamazenta",
+    "item": "Rusted Shield",
+    "ability": "Dauntless Shield",
+    "moves": [
+      "Protect",
+      "Heavy Slam",
+      "Wide Guard",
+      "Body Press"
+    ],
+    "nature": "Impish",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 196,
+      "spa": 0,
+      "spd": 60,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Dragonite",
+    "species": "Dragonite",
+    "item": "Choice Band",
+    "ability": "Inner Focus",
+    "moves": [
+      "Extreme Speed",
+      "Aerial Ace",
+      "Low Kick",
+      "Outrage"
+    ],
+    "nature": "Adamant",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Rillaboom",
+    "species": "Rillaboom",
+    "item": "Assault Vest",
+    "ability": "Grassy Surge",
+    "moves": [
+      "Wood Hammer",
+      "U Turn",
+      "Grassy Glide",
+      "Fake Out"
+    ],
+    "nature": "Adamant",
+    "gender": "",
+    "evs": {
+      "hp": 236,
+      "atk": 156,
+      "def": 4,
+      "spa": 0,
+      "spd": 108,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

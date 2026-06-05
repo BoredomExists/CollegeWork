@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingConstraints"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" >
+
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:contentDescription="@string/imgLogo"
+            android:src="@drawable/logo" />
+
+<TableLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"  >
+    <TableRow android:layout_width="wrap_content" >
+    <View android:layout_height="60dp" />
+    <TextView
+        android:id="@+id/txtDescription"
+        android:layout_width="wrap_content"
+        android:layout_gravity="left"
+        android:padding="20dp"
+        android:text="@string/app_description"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"/>
+    </TableRow>
+    <TableRow>
+    <View android:layout_height="50dp" />
+    <Button
+        android:id="@+id/btnTime"
+        android:layout_width="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="20dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="@string/btn_txt"
+        android:textSize="36sp"
+        android:textColor="#000000"/>
+    </TableRow>
+    <TableRow>
+    <View android:layout_height="60dp" />
+    <TextView
+        android:id="@+id/txtReservation"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:textSize="36sp"
+        android:textColor="#FFFFFF"/>
+    </TableRow>
+</TableLayout>
+</LinearLayout>
+</RelativeLayout>

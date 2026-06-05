@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Ogerpon Hearthflame",
+    "species": "Ogerpon Hearthflame",
+    "item": "Hearthflame Mask",
+    "ability": "Mold Breaker",
+    "moves": [
+      "Follow Me",
+      "Wood Hammer",
+      "Ivy Cudgel",
+      "Spiky Shield"
+    ],
+    "nature": "Jolly",
+    "gender": "F",
+    "evs": {
+      "hp": 0,
+      "atk": 252,
+      "def": 4,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Raging Bolt",
+    "species": "Raging Bolt",
+    "item": "Booster Energy",
+    "ability": "Protosynthesis",
+    "moves": [
+      "Thunderclap",
+      "Thunderbolt",
+      "Dragon Pulse",
+      "Protect"
+    ],
+    "nature": "Modest",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 156,
+      "spd": 12,
+      "spe": 84
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Zamazenta",
+    "species": "Zamazenta",
+    "item": "Rusted Shield",
+    "ability": "Dauntless Shield",
+    "moves": [
+      "Body Press",
+      "Wide Guard",
+      "Iron Head",
+      "Protect"
+    ],
+    "nature": "Impish",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 196,
+      "spa": 0,
+      "spd": 60,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Chien Pao",
+    "species": "Chien Pao",
+    "item": "Focus Sash",
+    "ability": "Sword Of Ruin",
+    "moves": [
+      "Ice Spinner",
+      "Sucker Punch",
+      "Taunt",
+      "Protect"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Whimsicott",
+    "species": "Whimsicott",
+    "item": "Covert Cloak",
+    "ability": "Prankster",
+    "moves": [
+      "Moonblast",
+      "Encore",
+      "Tailwind",
+      "Fake Tears"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 252,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Calyrex Shadow",
+    "species": "Calyrex Shadow",
+    "item": "Life Orb",
+    "ability": "As One",
+    "moves": [
+      "Astral Barrage",
+      "Pollen Puff",
+      "Psychic",
+      "Protect"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

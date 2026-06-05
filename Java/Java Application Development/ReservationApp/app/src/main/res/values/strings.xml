@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Wild Ginger Dinner Delivery</string>
-    <string name="app_description">Wild Ginger Dinner Delivery will deliver delicious food right to your door. We are a delivery app that is open between 5-11 pm and will bring your food already made and quickly delivered.
-    Order now and get a 10% deal on your first order</string>
-    <string name="imgLogo">Wild Ginger Dinner Delivery Logo</string>
-    <string name="btn_txt">Schedule a Time</string>
-</resources>

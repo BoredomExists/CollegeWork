@@ -1,0 +1,181 @@
+{
+  "score": 25.8,
+  "valid": true,
+  "errors": [],
+  "team": [
+    {
+      "name": "politoed",
+      "moves": [
+        "rain-dance",
+        "hydro-pump",
+        "ice-beam",
+        "psychic"
+      ],
+      "ability": "drizzle",
+      "item": "life-orb",
+      "nature": "modest",
+      "gender": "",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 0,
+        "spa": 252,
+        "spd": 252,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "name": "gyarados",
+      "moves": [
+        "dragon-dance",
+        "aqua-tail",
+        "earthquake",
+        "ice-beam"
+      ],
+      "ability": "intimidate",
+      "item": "kebia-berry",
+      "nature": "rash",
+      "gender": "",
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 4,
+        "spe": 0
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "name": "kingdra",
+      "moves": [
+        "agility",
+        "hydro-pump",
+        "ice-beam",
+        "dragon-pulse"
+      ],
+      "ability": "swift-swim",
+      "item": "choice-specs",
+      "nature": "modest",
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 4,
+        "spa": 252,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "name": "amoonguss",
+      "moves": [
+        "rain-dance",
+        "spore",
+        "toxic",
+        "giga-drain"
+      ],
+      "ability": "effect-spore",
+      "item": "sitrus-berry",
+      "nature": "bold",
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 0,
+        "def": 252,
+        "spa": 252,
+        "spd": 0,
+        "spe": 4
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "name": "iron-treads",
+      "moves": [
+        "protect",
+        "substitute",
+        "flash-cannon",
+        "bulldoze"
+      ],
+      "ability": "quark-drive",
+      "item": "miracle-seed",
+      "nature": "naughty",
+      "gender": "",
+      "evs": {
+        "hp": 0,
+        "atk": 252,
+        "def": 0,
+        "spa": 0,
+        "spd": 4,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    },
+    {
+      "name": "blissey",
+      "moves": [
+        "thunder",
+        "protect",
+        "retaliate",
+        "double-team"
+      ],
+      "ability": "healer",
+      "item": "leftovers",
+      "nature": "gentle",
+      "gender": "",
+      "evs": {
+        "hp": 4,
+        "atk": 0,
+        "def": 252,
+        "spa": 0,
+        "spd": 0,
+        "spe": 252
+      },
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      }
+    }
+  ]
+}

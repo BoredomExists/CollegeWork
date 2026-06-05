@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SchoolApplication</string>
+    <string name="school_name">Central Carolina Technical College</string>
+    <string name="description">Picture of CCTC</string>
+    <string name="btn_text">Information</string>
+
+    <string name="address_text">Address</string>
+    <string name="school_address">506 N Guignard Dr</string>
+    <string name="school_townstate">Sumter, SC</string>
+    <string name="school_zip">29150</string>
+    <string name="phone_text">Phone Number</string>
+    <string name="school_phone">(803) 778-1961</string>
+</resources>

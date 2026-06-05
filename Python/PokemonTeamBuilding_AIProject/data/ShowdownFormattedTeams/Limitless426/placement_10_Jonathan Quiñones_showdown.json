@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Ogerpon Cornerstone",
+    "species": "Ogerpon Cornerstone",
+    "item": "Cornerstone Mask",
+    "ability": "Sturdy",
+    "moves": [
+      "Spiky Shield",
+      "Wood Hammer",
+      "Ivy Cudgel",
+      "Follow Me"
+    ],
+    "nature": "Adamant",
+    "gender": "F",
+    "evs": {
+      "hp": 164,
+      "atk": 172,
+      "def": 12,
+      "spa": 0,
+      "spd": 4,
+      "spe": 156
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Urshifu Rapid Strike",
+    "species": "Urshifu Rapid Strike",
+    "item": "Choice Scarf",
+    "ability": "Unseen Fist",
+    "moves": [
+      "Surging Strikes",
+      "Rain Dance",
+      "Close Combat",
+      "U Turn"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Terapagos",
+    "species": "Terapagos",
+    "item": "Electric Seed",
+    "ability": "Tera Shift",
+    "moves": [
+      "Protect",
+      "Earth Power",
+      "Tera Starstorm",
+      "Calm Mind"
+    ],
+    "nature": "Modest",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 252,
+      "spd": 0,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Miraidon",
+    "species": "Miraidon",
+    "item": "Assault Vest",
+    "ability": "Hadron Engine",
+    "moves": [
+      "Electro Drift",
+      "Volt Switch",
+      "Draco Meteor",
+      "Snarl"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Sinistcha",
+    "species": "Sinistcha",
+    "item": "Focus Sash",
+    "ability": "Hospitality",
+    "moves": [
+      "Protect",
+      "Rage Powder",
+      "Shadow Ball",
+      "Strength Sap"
+    ],
+    "nature": "Bold",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 156,
+      "spa": 0,
+      "spd": 100,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Incineroar",
+    "species": "Incineroar",
+    "item": "Rocky Helmet",
+    "ability": "Intimidate",
+    "moves": [
+      "Flare Blitz",
+      "Parting Shot",
+      "Knock Off",
+      "Fake Out"
+    ],
+    "nature": "Careful",
+    "gender": "M",
+    "evs": {
+      "hp": 252,
+      "atk": 4,
+      "def": 116,
+      "spa": 0,
+      "spd": 132,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

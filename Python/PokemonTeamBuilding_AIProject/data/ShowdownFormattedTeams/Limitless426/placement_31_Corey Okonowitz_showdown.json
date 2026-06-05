@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Flutter Mane",
+    "species": "Flutter Mane",
+    "item": "Focus Sash",
+    "ability": "Protosynthesis",
+    "moves": [
+      "Moonblast",
+      "Icy Wind",
+      "Shadow Ball",
+      "Taunt"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Calyrex Shadow",
+    "species": "Calyrex Shadow",
+    "item": "Life Orb",
+    "ability": "As One",
+    "moves": [
+      "Protect",
+      "Astral Barrage",
+      "Nasty Plot",
+      "Psychic"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Koraidon",
+    "species": "Koraidon",
+    "item": "Clear Amulet",
+    "ability": "Orichalcum Pulse",
+    "moves": [
+      "Protect",
+      "Low Kick",
+      "Flare Blitz",
+      "Flame Charge"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Rillaboom",
+    "species": "Rillaboom",
+    "item": "Assault Vest",
+    "ability": "Grassy Surge",
+    "moves": [
+      "Wood Hammer",
+      "U Turn",
+      "Grassy Glide",
+      "Fake Out"
+    ],
+    "nature": "Adamant",
+    "gender": "",
+    "evs": {
+      "hp": 236,
+      "atk": 156,
+      "def": 4,
+      "spa": 0,
+      "spd": 108,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Incineroar",
+    "species": "Incineroar",
+    "item": "Safety Goggles",
+    "ability": "Intimidate",
+    "moves": [
+      "Flare Blitz",
+      "U Turn",
+      "Helping Hand",
+      "Fake Out"
+    ],
+    "nature": "Careful",
+    "gender": "M",
+    "evs": {
+      "hp": 252,
+      "atk": 4,
+      "def": 116,
+      "spa": 0,
+      "spd": 132,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Clefairy",
+    "species": "Clefairy",
+    "item": "Eviolite",
+    "ability": "Friend Guard",
+    "moves": [
+      "Protect",
+      "Helping Hand",
+      "Follow Me",
+      "Encore"
+    ],
+    "nature": "Bold",
+    "gender": "F",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 252,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/gamebackground1" android:duration="100" />
+<item android:drawable="@drawable/gamebackground2" android:duration="100" />
+<item android:drawable="@drawable/gamebackground3" android:duration="100" />
+<item android:drawable="@drawable/gamebackground4" android:duration="100" />
+<item android:drawable="@drawable/gamebackground5" android:duration="100" />
+<item android:drawable="@drawable/gamebackground6" android:duration="100" />
+<item android:drawable="@drawable/gamebackground7" android:duration="100" />
+<item android:drawable="@drawable/gamebackground8" android:duration="100" />
+<item android:drawable="@drawable/gamebackground9" android:duration="100" />
+<item android:drawable="@drawable/gamebackground10" android:duration="100" />
+<item android:drawable="@drawable/gamebackground11" android:duration="100" />
+<item android:drawable="@drawable/gamebackground12" android:duration="100" />
+<item android:drawable="@drawable/gamebackground13" android:duration="100" />
+<item android:drawable="@drawable/gamebackground14" android:duration="100" />
+<item android:drawable="@drawable/gamebackground15" android:duration="100" />
+<item android:drawable="@drawable/gamebackground16" android:duration="100" />
+<item android:drawable="@drawable/gamebackground17" android:duration="100" />
+<item android:drawable="@drawable/gamebackground18" android:duration="100" />
+<item android:drawable="@drawable/gamebackground19" android:duration="100" />
+<item android:drawable="@drawable/gamebackground20" android:duration="100" />
+<item android:drawable="@drawable/gamebackground21" android:duration="100" />
+<item android:drawable="@drawable/gamebackground22" android:duration="100" />
+<item android:drawable="@drawable/gamebackground23" android:duration="100" />
+<item android:drawable="@drawable/gamebackground24" android:duration="100" />
+<item android:drawable="@drawable/gamebackground25" android:duration="100" />
+
+</animation-list>

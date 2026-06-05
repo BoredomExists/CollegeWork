@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Smeargle",
+    "species": "Smeargle",
+    "item": "Focus Sash",
+    "ability": "Moody",
+    "moves": [
+      "Decorate",
+      "Spore",
+      "Follow Me",
+      "Fake Out"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Tornadus",
+    "species": "Tornadus",
+    "item": "Sky Plate",
+    "ability": "Prankster",
+    "moves": [
+      "Protect",
+      "Taunt",
+      "Tailwind",
+      "Bleakwind Storm"
+    ],
+    "nature": "Timid",
+    "gender": "M",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 0,
+      "spd": 252,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Raging Bolt",
+    "species": "Raging Bolt",
+    "item": "Booster Energy",
+    "ability": "Protosynthesis",
+    "moves": [
+      "Protect",
+      "Thunderbolt",
+      "Thunderclap",
+      "Dragon Pulse"
+    ],
+    "nature": "Modest",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 156,
+      "spd": 12,
+      "spe": 84
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Rillaboom",
+    "species": "Rillaboom",
+    "item": "Assault Vest",
+    "ability": "Grassy Surge",
+    "moves": [
+      "Fake Out",
+      "Wood Hammer",
+      "Grassy Glide",
+      "U Turn"
+    ],
+    "nature": "Adamant",
+    "gender": "",
+    "evs": {
+      "hp": 236,
+      "atk": 156,
+      "def": 4,
+      "spa": 0,
+      "spd": 108,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Zamazenta",
+    "species": "Zamazenta",
+    "item": "Rusted Shield",
+    "ability": "Dauntless Shield",
+    "moves": [
+      "Protect",
+      "Heavy Slam",
+      "Wide Guard",
+      "Body Press"
+    ],
+    "nature": "Impish",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 196,
+      "spa": 0,
+      "spd": 60,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Calyrex Shadow",
+    "species": "Calyrex Shadow",
+    "item": "Life Orb",
+    "ability": "As One",
+    "moves": [
+      "Protect",
+      "Astral Barrage",
+      "Psychic",
+      "Nasty Plot"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]

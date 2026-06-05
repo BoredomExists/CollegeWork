@@ -1,0 +1,87 @@
+{
+  "words": [
+    {
+      "word": "Hello",
+      "wordInOtherLanguage": "Hola",
+      "definition": "A greeting used when meeting someone or starting a conversation.",
+      "pronunciation": "Heh-loh",
+      "similarWords": []
+    },
+    {
+      "word": "Thanks",
+      "wordInOtherLanguage": "Gracias",
+      "definition": "Used to express gratitude.",
+      "pronunciation": "Thanks",
+      "similarWords": []
+    },
+    {
+      "word": "Please",
+      "wordInOtherLanguage": "Por favor",
+      "definition": "A polite request or expression of politeness when asking for something.",
+      "pronunciation": "Pleez"
+    },
+    {
+      "word": "Good afternoon",
+      "wordInOtherLanguage": "Buenas tardes",
+      "definition": "A greeting used in the afternoon.",
+      "pronunciation": "Good af-ter-noon",
+      "similarWords": []
+    },
+    {
+      "word": "Good morning",
+      "wordInOtherLanguage": "Buenos días",
+      "definition": "A greeting used in the morning.",
+      "pronunciation": "Good mor-ning",
+      "similarWords": []
+    },
+    {
+      "word": "Good night",
+      "wordInOtherLanguage": "Buenas noches",
+      "definition": "A farewell used in the evening or before going to sleep.",
+      "pronunciation": "Good night",
+      "similarWords": []
+    },
+    {
+      "word": "Goodbye",
+      "wordInOtherLanguage": "Adiós",
+      "definition": "A farewell used when parting.",
+      "pronunciation": "Good-bye",
+      "similarWords": []
+    },
+    {
+      "word": "I will have",
+      "wordInOtherLanguage": "Voy a tener",
+      "definition": "Used when ordering or requesting something.",
+      "pronunciation": "I wil hav",
+      "similarWords": []
+    },
+    {
+      "word": "For here",
+      "wordInOtherLanguage": "Para aquí",
+      "definition": "Indicates that something, like food, is for consumption on the premises.",
+      "pronunciation": "For heer",
+      "similarWords": []
+    },
+    {
+      "word": "To go",
+      "wordInOtherLanguage": "Para llevar",
+      "definition": "Indicates that something, like food, is for consumption elsewhere.",
+      "pronunciation": "Too goh",
+      "similarWords": []
+    },
+    {
+      "word": "Menu",
+      "wordInOtherLanguage": "Menú",
+      "definition": "A list of food and drinks available at a restaurant.",
+      "pronunciation": "Meh-noo",
+      "similarWords": []
+    },
+    {
+      "word": "Recommend",
+      "wordInOtherLanguage": "Recomendar",
+      "definition": "To suggest something as being particularly good.",
+      "pronunciation": "Reh-kuh-mend",
+      "similarWords": []
+    }
+  ]
+}

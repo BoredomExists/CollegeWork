@@ -1,5 +1,0 @@
-The project is a Graphical User Interface of a Lottery Program.
-
-LotteryRunner is the script to run the program.
-LotteryGame has all the methods for the game.
-LotteryErrors is for error checking.

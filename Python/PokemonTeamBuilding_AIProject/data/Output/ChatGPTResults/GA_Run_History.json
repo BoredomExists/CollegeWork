@@ -1,0 +1,17 @@
+[
+  {
+    "run": 1,
+    "bestScore": 54.2,
+    "improved": true
+  },
+  {
+    "run": 2,
+    "bestScore": 54.2,
+    "improved": false
+  },
+  {
+    "run": 3,
+    "bestScore": 55,
+    "improved": true
+  }
+]

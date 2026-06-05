@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Chapter 6 Music App</string>
-    <string name="txtTitle">Music</string>
-    <string name="imgDescription">Music Note</string>
-
-    <string name="txtTitle2">Play Music</string>
-</resources>

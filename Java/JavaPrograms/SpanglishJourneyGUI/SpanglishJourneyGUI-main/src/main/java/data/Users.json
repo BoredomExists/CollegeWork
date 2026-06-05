@@ -1,0 +1,130 @@
+[
+  {
+    "Email": "LGarcia@gmail.com",
+    "Username": "LGarcia",
+    "FirstName": "Lopez",
+    "Friends": ["Maritez", "ABlanca"],
+    "Setting": [
+      {
+        "Darkmode": false,
+        "Lesson Timer": false,
+        "Text_to_Speech": false,
+        "Font_Size": 32,
+        "Notification": false
+      }
+    ],
+    "UserScore": 0,
+    "Courses": [
+      {
+        "Progress": 0.0,
+        "Language": "English",
+        "Modules": [
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [
+            ],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [
+            ],
+            "Name": "Basic English Essentials"
+          },
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [],
+            "Name": "Everyday English and Basic Grammer"
+          }
+        ]
+      }
+    ],
+    "LastName": "Garcia",
+    "Password": "SimplePassword"
+  },
+  {
+    "Email": "Maritez@gmail.com",
+    "Username": "Maritez",
+    "FirstName": "Marisol",
+    "Friends": ["LGarcia"],
+    "Setting": [
+      {
+        "Darkmode": true,
+        "Lesson Timer": true,
+        "Text_to_Speech": true,
+        "Font_Size": 12,
+        "Notification": false
+      }
+    ],
+    "UserScore": 0,
+    "Courses": [
+      {
+        "Progress": 0.0,
+        "Language": "English",
+        "Modules": [
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [],
+            "Name": "Basic English Essentials"
+          },
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [],
+            "Name": "Everyday English and Basic Grammer"
+          }
+        ]
+      }
+    ],
+    "LastName": "Cortez",
+    "Password": "CSDStudent24"
+  },
+  {
+    "Email": "ABlanca@gmail.com",
+    "Username": "ABlanca",
+    "FirstName": "Adela",
+    "Friends": ["LGarcia"],
+    "Setting": [
+      {
+        "Darkmode": true,
+        "Lesson Timer": true,
+        "Text_to_Speech": true,
+        "Font_Size": 12,
+        "Notification": false
+      }
+    ],
+    "UserScore": 0,
+    "Courses": [
+      {
+        "Progress": 0.0,
+        "Language": "English",
+        "Modules": [
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [],
+            "Name": "Basic English Essentials"
+          },
+          {
+            "BookmarkedLessons": [],
+            "CorrectQuestions": [],
+            "Score": 0.0,
+            "Progress": 0.0,
+            "MissedQuestions": [],
+            "Name": "Everyday English and Basic Grammer"
+          }
+        ]
+      }
+    ],
+    "LastName": "Blanca",
+    "Password": "Monterrey1821"
+  }
+]

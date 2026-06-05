@@ -1,0 +1,176 @@
+[
+  {
+    "name": "calyrex-ice",
+    "moves": [
+      "glacial-lance",
+      "high-horsepower",
+      "trick-room",
+      "protect"
+    ],
+    "ability": "as-one",
+    "item": "clear-amulet",
+    "nature": "brave",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  },
+  {
+    "name": "indeedee-f",
+    "moves": [
+      "follow-me",
+      "helping-hand",
+      "trick-room",
+      "expanding-force"
+    ],
+    "ability": "psychic-surge",
+    "item": "psychic-seed",
+    "nature": "sassy",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 156,
+      "spa": 0,
+      "spd": 100,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  },
+  {
+    "name": "farigiraf",
+    "moves": [
+      "trick-room",
+      "hyper-voice",
+      "psychic",
+      "protect"
+    ],
+    "ability": "armor-tail",
+    "item": "throat-spray",
+    "nature": "quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  },
+  {
+    "name": "ursaluna-bloodmoon",
+    "moves": [
+      "blood-moon",
+      "earth-power",
+      "hyper-voice",
+      "protect"
+    ],
+    "ability": "minds-eye",
+    "item": "life-orb",
+    "nature": "quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  },
+  {
+    "name": "amoonguss",
+    "moves": [
+      "spore",
+      "rage-powder",
+      "pollen-puff",
+      "protect"
+    ],
+    "ability": "regenerator",
+    "item": "sitrus-berry",
+    "nature": "relaxed",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 172,
+      "spa": 0,
+      "spd": 84,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  },
+  {
+    "name": "torkoal",
+    "moves": [
+      "eruption",
+      "heat-wave",
+      "earth-power",
+      "protect"
+    ],
+    "ability": "drought",
+    "item": "charcoal",
+    "nature": "quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    }
+  }
+]

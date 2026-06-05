@@ -1,0 +1,54 @@
+extends layout 
+
+block content
+  script(src="https://code.jquery.com/jquery-3.6.0.min.js")
+  script(type= 'text/javascript', src= "/javascripts/main.js")
+  h1#TableName Billing
+
+  div 
+    button#medical Medical 
+    button#patients Patients
+
+  form#billingForm(action="/", method='POST')
+    div 
+    fieldset 
+      legend Add Data 
+      label I.D:
+      input(type= 'text', id= 'billingID', name= 'billingID')
+      label First Name:
+      input(type= 'text', id= 'billingFN', name= 'billingFN')
+      label Last Name:
+      input(type= 'text', id= 'billingLN', name= 'billingLN')
+      label Appt Date:
+      input(type= 'text', id= 'apptdate', name= 'apptdate')
+      br
+      label Amt Due:
+      input(type= 'text', id= 'amtdue', name= 'amtdue')
+      label Amt Paid:
+      input(type= 'text', id= 'amtpaid', name= 'amtpaid')
+      label Insurance:
+      input(type= 'text', id= 'insurance', name= 'insurance')
+      label DateOfService:
+      input(type= 'text', id= 'dateofservice', name= 'dateofservice')
+      br
+      button(type= 'submit') Submit
+
+  div 
+  br
+  table
+    thead 
+      tr 
+      -each i in HeadingList 
+        th= i 
+    tbody 
+      tr
+        -each i in DataList 
+          tr 
+          td= i.id
+          td= i.first_name 
+          td= i.last_name 
+          td= i.Appt_date 
+          td= i.Amt_due 
+          td= i.Amt_paid 
+          td= i.Insurance 
+          td= i.date_of_service

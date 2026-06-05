@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Galega Rejected</string>
+    First Activity Elements
+    <string name="firstActivity_Title">Galaga Rejected</string>
+    <string name="firstActivity_StartButton">Start</string>
+    <string name="firstActivity_ExitButton">Exit</string>
+</resources>

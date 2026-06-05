@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Kyogre",
+    "species": "Kyogre",
+    "item": "Mystic Water",
+    "ability": "Drizzle",
+    "moves": [
+      "Hydro Pump",
+      "Protect",
+      "Origin Pulse",
+      "Water Spout"
+    ],
+    "nature": "Modest",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 252,
+      "spd": 0,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Urshifu Rapid Strike",
+    "species": "Urshifu Rapid Strike",
+    "item": "Choice Scarf",
+    "ability": "Unseen Fist",
+    "moves": [
+      "U Turn",
+      "Coaching",
+      "Surging Strikes",
+      "Close Combat"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Amoonguss",
+    "species": "Amoonguss",
+    "item": "Sitrus Berry",
+    "ability": "Regenerator",
+    "moves": [
+      "Spore",
+      "Pollen Puff",
+      "Rage Powder",
+      "Protect"
+    ],
+    "nature": "Calm",
+    "gender": "",
+    "evs": {
+      "hp": 236,
+      "atk": 0,
+      "def": 156,
+      "spa": 0,
+      "spd": 116,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Farigiraf",
+    "species": "Farigiraf",
+    "item": "Safety Goggles",
+    "ability": "Armor Tail",
+    "moves": [
+      "Psychic Noise",
+      "Trick Room",
+      "Helping Hand",
+      "Roar"
+    ],
+    "nature": "Sassy",
+    "gender": "",
+    "evs": {
+      "hp": 244,
+      "atk": 0,
+      "def": 108,
+      "spa": 44,
+      "spd": 112,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Rillaboom",
+    "species": "Rillaboom",
+    "item": "Focus Sash",
+    "ability": "Grassy Surge",
+    "moves": [
+      "Grassy Glide",
+      "Fake Out",
+      "Drum Beating",
+      "Taunt"
+    ],
+    "nature": "Adamant",
+    "gender": "",
+    "evs": {
+      "hp": 236,
+      "atk": 156,
+      "def": 4,
+      "spa": 0,
+      "spd": 108,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Calyrex Ice",
+    "species": "Calyrex Ice",
+    "item": "Never Melt Ice",
+    "ability": "As One",
+    "moves": [
+      "Trick Room",
+      "High Horsepower",
+      "Protect",
+      "Glacial Lance"
+    ],
+    "nature": "Brave",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  }
+]

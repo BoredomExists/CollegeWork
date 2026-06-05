@@ -1,0 +1,33 @@
+[
+    {
+        "Maritez": {
+            "user_position": 2,
+            "name": "Maritez",
+            "leaderboard": [
+                {
+                    "rank": 1,
+                    "name": "LGarcia",
+                    "userScore": 130
+                },
+                {
+                    "rank": 2,
+                    "name": "Maritez",
+                    "userScore": 24
+                }
+            ]
+        }
+    },
+    {
+        "ABlanca": {
+            "user_position": 1,
+            "name": "ABlanca",
+            "leaderboard": [
+                {
+                    "rank": 1,
+                    "name": "ABlanca",
+                    "userScore": 240
+                }
+            ]
+        }
+    }
+]

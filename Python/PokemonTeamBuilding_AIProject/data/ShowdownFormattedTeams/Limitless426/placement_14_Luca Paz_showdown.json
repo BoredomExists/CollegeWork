@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Chi Yu",
+    "species": "Chi Yu",
+    "item": "Choice Scarf",
+    "ability": "Beads Of Ruin",
+    "moves": [
+      "Overheat",
+      "Dark Pulse",
+      "Heat Wave",
+      "Snarl"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Ursaluna",
+    "species": "Ursaluna",
+    "item": "Flame Orb",
+    "ability": "Guts",
+    "moves": [
+      "Facade",
+      "Earthquake",
+      "Headlong Rush",
+      "Protect"
+    ],
+    "nature": "Brave",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 4,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Lunala",
+    "species": "Lunala",
+    "item": "Power Herb",
+    "ability": "Shadow Shield",
+    "moves": [
+      "Moongeist Beam",
+      "Trick Room",
+      "Meteor Beam",
+      "Wide Guard"
+    ],
+    "nature": "Quiet",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 0,
+      "def": 4,
+      "spa": 252,
+      "spd": 0,
+      "spe": 0
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 0
+    },
+    "level": 50
+  },
+  {
+    "name": "Koraidon",
+    "species": "Koraidon",
+    "item": "Life Orb",
+    "ability": "Orichalcum Pulse",
+    "moves": [
+      "Close Combat",
+      "Flame Charge",
+      "Flare Blitz",
+      "Protect"
+    ],
+    "nature": "Jolly",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 252,
+      "def": 0,
+      "spa": 0,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Flutter Mane",
+    "species": "Flutter Mane",
+    "item": "Focus Sash",
+    "ability": "Protosynthesis",
+    "moves": [
+      "Shadow Ball",
+      "Icy Wind",
+      "Moonblast",
+      "Protect"
+    ],
+    "nature": "Timid",
+    "gender": "",
+    "evs": {
+      "hp": 4,
+      "atk": 0,
+      "def": 0,
+      "spa": 252,
+      "spd": 0,
+      "spe": 252
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  },
+  {
+    "name": "Brute Bonnet",
+    "species": "Brute Bonnet",
+    "item": "Sitrus Berry",
+    "ability": "Protosynthesis",
+    "moves": [
+      "Spore",
+      "Seed Bomb",
+      "Rage Powder",
+      "Sucker Punch"
+    ],
+    "nature": "Careful",
+    "gender": "",
+    "evs": {
+      "hp": 252,
+      "atk": 60,
+      "def": 116,
+      "spa": 0,
+      "spd": 76,
+      "spe": 4
+    },
+    "ivs": {
+      "hp": 31,
+      "atk": 31,
+      "def": 31,
+      "spa": 31,
+      "spd": 31,
+      "spe": 31
+    },
+    "level": 50
+  }
+]
